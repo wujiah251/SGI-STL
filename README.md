@@ -1,3 +1,9 @@
+# SGI-STL
+
+## 说明
+
+这个库是在``git@github.com:steveLauwh/SGI-STL.git``基础上建立的。
+
 ## SGI-STL V3.3 源代码的学习
 
 * SGI-STL V3.3(源代码)
